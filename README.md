@@ -1,5 +1,7 @@
 Visit My Website - https://ozler365.github.io/ozler-s-works-info/#/repositories
 
+Greasyfork Userscript - https://greasyfork.org/en/users/1553223-ozler365
+
 *This is for educational purpose, don't repost the downloaded images
 
 Help Keep This Userscript
